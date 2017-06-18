@@ -1,10 +1,10 @@
 
 title: My Resume
 url: 'http://www.jamesvanaselja.com'
-baseurl: '/online-cv' #change it according to your repository name
+baseurl: '' #change it according to your repository name
 
 
-# Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
+# Enable one of these styles by removing #. Style will be applied only after restarting the build or server.
 #style: styles-2
 #style: styles-3
 #style: styles-4
@@ -20,8 +20,7 @@ pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and pro
 #sidebar links
 email: Vanaselja.James@knights.ucf.edu  
 phone: (321) 508-7125
-website: www.JamesVanaselja.com #do not add http://
-linkedin: leaveblank
+linkedin: 
 github: jman1118
 twitter: '@jvanaselja'
 
