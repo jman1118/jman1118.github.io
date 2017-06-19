@@ -1,6 +1,7 @@
 
 title: My Resume
-url: 'http://www.jamesvanaselja.com'
+url: 'https://www.jamesvanaselja.com'
+enforce_ssl: www.jamesvanaselja.com
 baseurl: '' #change it according to your repository name
 
 
