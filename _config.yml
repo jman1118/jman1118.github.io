@@ -15,7 +15,7 @@ style: styles-2
 
 #Profile information
 name: James Vanaselja
-tagline: Recent IT Grad
+tagline: Seasoned Help Desk technician seeking to move into Cybersecurity
 pic: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
@@ -24,7 +24,7 @@ phone: (321) 508-7125
 website: www.jamesvanaselja.com
 linkedin: JamesVanaselja
 github: jman1118
-twitter: '@jvanaselja'
+
 
 
 # Tracker
